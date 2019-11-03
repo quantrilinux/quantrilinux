@@ -1,4 +1,4 @@
 quantrilinux
 ============
 
-Home page: http://quantriliunx.vn 
+Home page: http://quantrilinux.vn
